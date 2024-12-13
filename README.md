@@ -1,6 +1,6 @@
 # Poke-Projeto-ALA
  Trabalho final de Álgebra Linear Algorítmica de Ian Mascaro e Vinícius Leoni
-#![title](imagens/title_IAP_ALA.png)
+![title](imagens/title_IAP_ALA.png)
   
 **AUTORES:**
 - Ian Mascaro Salomão - DRE: *123162270*
